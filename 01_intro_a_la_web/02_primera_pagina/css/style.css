@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+
+}
+nav{
+    background-color: blue;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img{
+    width: 450px;
+}
