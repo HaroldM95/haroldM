@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Smokum&display=swap');
+body{
+    background-color: brown;
+
+}
+header{
+    background-color: aqua;
+}
+.rojo p{
+    font-family: 'Smokum', cursive;
+    font-size: 28px;
+}
+section{
+    border: purple 10px dashed;
+    background-color: white;
+width: 100%;
+}
+section .colores{
+    border: red solid 8px;
+    border-top-color:red;
+    border-right-color: chartreuse;
+    border-bottom-color: yellow;
+    width: 50%;
+}
+p{
+    font-family: 'Inspiration', cursive;
+}
+.texto{
+    font-family: 'Smokum', cursive;
+    font-size: 30px;
+}

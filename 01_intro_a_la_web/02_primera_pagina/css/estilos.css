@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+body{
+    background-color: aqua;
+    list-style-type: none;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    background-color: blanchedalmond;
+    display: flex;
+    font-family: 'Lobster', cursive;
+    font-size: none;
+    margin: 0%;
+    padding: 0%;
+}
+ul{
+    overflow: hidden;
+    position: fixed;
+}
+h1{
+    background-color: beige;
+    font-family: 'Dela Gothic One', cursive;
+}
+section{
+    font-family: 'Lobster', cursive;
+    background-color: blanchedalmond;
+}
+    textarea{
+        border : red 15px dashed;
+    }
+
+
